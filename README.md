@@ -30,3 +30,4 @@ A Java-based console app that helps students track their study sessions, set goa
 ## 📫 Reach Out
 - **LinkedIn**: [Ceylin Koç](https://www.linkedin.com/in/ceylin-ko%C3%A7-0a04a1289/)
 - **Instagram**: [@ceyliinkoc](https://instagram.com/ceyliinkoc)
+- **Gmail**: ceylin.koc@ozu.edu.tr
